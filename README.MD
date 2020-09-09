@@ -6,8 +6,8 @@
     <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/sw2x-Developer/sw2x-Developer/master/assets/icons/twitter.svg">
 </a>
 
-<a href="https://discord.com/channels/@me/601558897035051009">
-    <img align="left" alt="Discord" width="20px" src="https://raw.githubusercontent.com/sw2x-Developer/sw2x-Developer/master/assets/icons/discord.svg">
+<a href="https://www.linkedin.com/in/mohammad-khajah-490058161/">
+    <img align="left" alt="Linkedin" width="20px" src="https://raw.githubusercontent.com/sw2x-Developer/sw2x-Developer/master/assets/icons/linkedin.svg">
 </a>
 
 <a href="https://instagram.com/sw2x">
