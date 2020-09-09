@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/sw2x-Developer/sw2x-Developer/master/assets/media/avatar.png" />
+<img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/sw2x-Developer/sw2x-Developer/master/assets/media/avatar1.png" />
 
 ### 👋 Hi! I'm [Sw2x](https://MohammadKhajah.com)
 
